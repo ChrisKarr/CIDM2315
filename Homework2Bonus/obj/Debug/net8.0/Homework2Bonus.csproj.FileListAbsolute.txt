@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\bin\Debug\net8.0\Homework2Bonus.exe
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\bin\Debug\net8.0\Homework2Bonus.deps.json
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\bin\Debug\net8.0\Homework2Bonus.runtimeconfig.json
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\bin\Debug\net8.0\Homework2Bonus.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\bin\Debug\net8.0\Homework2Bonus.pdb
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.AssemblyInfo.cs
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\refint\Homework2Bonus.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.pdb
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\Homework2Bonus.genruntimeconfig.cache
+C:\Users\admin\Desktop\CIDM 2315\Homework2Bonus\obj\Debug\net8.0\ref\Homework2Bonus.dll
