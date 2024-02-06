@@ -1,0 +1,14 @@
+c:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.AssemblyInfoInputs.cache
+c:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.AssemblyInfo.cs
+c:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\bin\Debug\net8.0\Homework3.3.exe
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\bin\Debug\net8.0\Homework3.3.deps.json
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\bin\Debug\net8.0\Homework3.3.runtimeconfig.json
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\bin\Debug\net8.0\Homework3.3.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\bin\Debug\net8.0\Homework3.3.pdb
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\refint\Homework3.3.dll
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.pdb
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\Homework3.3.genruntimeconfig.cache
+C:\Users\admin\Desktop\CIDM 2315\Homework3.3\obj\Debug\net8.0\ref\Homework3.3.dll
